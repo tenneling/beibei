@@ -1,0 +1,6 @@
+/* pages/game/index.wxss */
+
+.top{
+  width: 100%;
+  height: 30px;
+}

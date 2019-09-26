@@ -17,5 +17,10 @@
 }
 
 .usermotto {
-  margin-top: 200px;
+  margin-top: 50px;
+}
+
+.buttonLocation{
+  position: relative;
+  margin-top: 20px;
 }

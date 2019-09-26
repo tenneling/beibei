@@ -1,0 +1,7 @@
+<!--pages/game/index.wxml-->
+<view class="container">
+<view class="top">
+<text style="width:50%;">已有积分：{{grade}}</text>
+<button style="width:30%;">去商城</button>
+</view>
+</view>
